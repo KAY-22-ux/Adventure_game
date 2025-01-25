@@ -29,3 +29,6 @@ Welcome to the **Text-Based Adventure Game**! In this game, you’ll encounter v
 1. Download or clone the repository to your computer.
 2. Open a terminal, navigate to the game’s directory.
 3. Run the game using Python or a similar environment.
+
+Enjoy your game, and thank you for playing!
+                        ---Adjei Caleb
