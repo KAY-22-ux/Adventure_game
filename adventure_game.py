@@ -1,4 +1,4 @@
-#This is a text-based adventure game with three levels of choices, using nested if-else statements. .
+#This is a text-based adventure game with three levels of choices, using nested if-else statements.
 # The player make choices that lead to different scenarios, and the game includes an additional creative feature.
 
 
