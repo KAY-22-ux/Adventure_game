@@ -187,7 +187,7 @@ def run_game ():
                 
             elif choice3 == "run":
                 points += 5
-                # Level 4: Scenario after choosing to run
+                # Level 4: Scenario after choosing to run.
                 print("You run away, but you trip and fall. The wolf catches up to you.")
                 print("Game over! The wolf got you.")
                 
