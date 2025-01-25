@@ -11,7 +11,7 @@ def run_game ():
     choice1 = input("Type MATCH, FLASHLIGHT, or SWORD: ").lower()  # Convert input to lowercase to handle case insensitivity
     if choice1 == "match":
         points += 10
-        # Level 2: Scenario after picking the match
+        # Level 2: Scenario after picking the match.
         print("You pick up the match and strike it, and for an instant, the forest around you is illuminated.")
         print("You see a large grizzly bear, and then the match burns out.\n")
         choice2 = input("Do you want to RUN, HIDE behind a tree, or THROW the match at the bear? \n").lower() 
